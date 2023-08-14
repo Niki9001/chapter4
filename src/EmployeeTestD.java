@@ -7,6 +7,7 @@ public class EmployeeTestD {
         ed.birthday.month=01;
         ed.birthday.day=15;
 
+
         EmployeeD ed2 = new EmployeeD();
         ed2.name="mm";
         ed2.birthday=new MyDate();
