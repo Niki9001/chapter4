@@ -3,7 +3,8 @@ public class EmployeeD {
     String name;
     int age;
     double salary;
-    MyDate birthday;
-
+    //或者
+    //MyDate birthday;
+    MyDate birthday=new MyDate();
 
 }
