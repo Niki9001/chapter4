@@ -6,6 +6,7 @@ public class EmployeeTest {
         em.salary = 4000;
         System.out.println(em.id+em.name+em.salary);
 
+
         Employee em1 = new Employee();
         em1.id = 2;
         em1.name = "b";
