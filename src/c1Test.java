@@ -5,7 +5,7 @@ public class c1Test {
         //通过c1的对象，调用其内部声明的属性或方法
         // 对象.属性
         p1.name = "iPhone";
-        p1.price = 1000;
+        p1.price = 2000;
 
         System.out.println("name= " + p1.name + ", price= " + p1.price);
 
