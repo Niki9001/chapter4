@@ -1,6 +1,6 @@
 public class MyDate {
 
-    int year;
+    public int year;
     int month;
     int day;
 
