@@ -4,7 +4,6 @@ public class OverloadExer1 {
         oe.mOL(2);
         oe.mOL(4,6);
         oe.mOL("World");
-
     }
     public void mOL(int i1){
         System.out.println(i1*i1);
